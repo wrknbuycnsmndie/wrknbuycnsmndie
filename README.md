@@ -1,5 +1,9 @@
-<h1 align="center">Hi 👋, My name is Anthony</h1>
-<h3 align="center">I'm a fullstack developer</h3>
+<h1 align="center">𝐇𝐢! 👋, 𝐌𝐲 𝐧𝐚𝐦𝐞 𝐢𝐬 𝐀𝐧𝐭𝐨𝐧y.</h1>
+<h3 align="center">𝐈'𝐦 𝐜𝐨𝐦𝐩𝐮𝐭𝐞𝐫 𝐬𝐜𝐢𝐞𝐧𝐜𝐞 𝐬𝐭𝐮𝐝𝐞𝐧𝐭 𝐚𝐧𝐝 𝐟𝐮𝐥𝐥𝐬𝐭𝐚𝐜𝐤 𝐝𝐞𝐯𝐞𝐥𝐨𝐩𝐞𝐫.</h3>
+<div align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&weight=700&pause=1000&color=FFFFFF&random=false&width=435&lines=Desktop+development+(C%23%2C+Go);Web+development+(React%2FNext%2C+NodeJS%2C+Go%2C+ASP.NET));And+want+to+learn+Web3+and+DApps+" alt="Typing SVG" /></a>
+</div>
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=wrknbuycnsmndie&label=Profile%20views&color=0e75b6&style=flat" alt="wrknbuycnsmndie" /> </p>
 
@@ -9,9 +13,6 @@
 
 - as a backend webdev I’m currently learning **NodeJS, NestJS.**
 
-<div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&weight=700&pause=1000&color=FFFFFF&random=false&width=435&lines=Desktop+development+(C%23%2C+Go);Web+development+(React%2FNext%2C+NodeJS%2C+Go%2C+ASP.NET));And+want+to+learn+Web3+and+DApps+" alt="Typing SVG" /></a>
-</div>
 
 
 <h3 align="left">Connect with me:</h3>
