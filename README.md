@@ -11,7 +11,7 @@
 
 <div align="center">
   
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&weight=700&pause=1000&color=950000&center=true&vCenter=true&random=false&width=435&lines=Desktop+development+(C%23%2C+Go);Web+development+(React%2FNext%2C+NodeJS%2C+Go%2C+ASP.NET));And+want+to+learn+Web3+and+DApps+" alt="Typing SVG" /></a>
+<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Serif&weight=700&pause=1000&color=950000&random=false&width=435&lines=Desktop+development+(C%23%2C+Go);Web+development+(React%2FNext%2C+NodeJS%2C+Go%2C+ASP.NET));And+want+to+learn+Web3+and+DApps+" alt="Typing SVG" /></a>
 </div>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
