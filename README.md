@@ -5,39 +5,31 @@
 
 <h4 align="center">Frontend Expertise:</h4>
 <div align="center">
-  <ul style="list-style-type: none;">
-    <li><strong>Frameworks:</strong> React.js, Next.js (pages/app routing), Zustand, React Query</li>
-    <li><strong>Styling:</strong> Tailwind CSS, Daisy UI, Shadcn UI</li>
-    <li><strong>Tooling:</strong> Webpack, Vite, Vitest, Kubb.dev (code generation via Swagger)</li>
-  </ul>
+  <p><strong>Frameworks:</strong> React.js, Next.js (pages/app routing), Zustand, React Query</p>
+  <p><strong>Styling:</strong> Tailwind CSS, Daisy UI, Shadcn UI</p>
+  <p><strong>Tooling:</strong> Webpack, Vite, Vitest, Kubb.dev (code generation via Swagger)</p>
 </div>
 
 <h4 align="center">Backend Technologies:</h4>
 <div align="center">
-  <ul style="list-style-type: none;">
-    <li><strong>Node.js:</strong> NestJS (with Express and Fastify), Prisma ORM, Kysely, DrizzleORM, HonoJS</li>
-    <li><strong>Deno & Bun:</strong> Standard library projects for testing and learning</li>
-    <li><strong>C#:</strong> ASP.NET Core (Minimal API, Entity Framework, Dapper)</li>
-  </ul>
+  <p><strong>Node.js:</strong> NestJS (with Express and Fastify), Prisma ORM, Kysely, DrizzleORM, HonoJS</p>
+  <p><strong>Deno & Bun:</strong> Standard library projects for testing and learning</p>
+  <p><strong>C#:</strong> ASP.NET Core (Minimal API, Entity Framework, Dapper)</p>
 </div>
 
 <h4 align="center">Tools & Platforms:</h4>
 <div align="center">
-  <ul style="list-style-type: none;">
-    <li><strong>Version Control:</strong> Git, GitHub</li>
-    <li><strong>Containers & CI/CD:</strong> Docker, Docker Compose, GitHub Actions</li>
-    <li><strong>Clouds (AWS, YandexCloud):</strong> S3 (and S3 compatible solutions like MiniO)</li>
-    <li><strong>Messaging:</strong> NATS</li>
-  </ul>
+  <p><strong>Version Control:</strong> Git, GitHub</p>
+  <p><strong>Containers & CI/CD:</strong> Docker, Docker Compose, GitHub Actions</p>
+  <p><strong>Clouds (AWS, YandexCloud):</strong> S3 (and S3 compatible solutions like MiniO)</p>
+  <p><strong>Messaging:</strong> NATS</p>
 </div>
 
 <h4 align="center">Goals for 2024/2025:</h4>
 <div align="center">
-  <ul style="list-style-type: none;">
-    <li>Expand expertise in Node.js and explore runtimes like Deno and Bun</li>
-    <li>Advance knowledge of the .NET ecosystem</li>
-    <li>Gain practical experience in Web3 technologies</li>
-  </ul>
+  <p>Expand expertise in Node.js and explore runtimes like Deno and Bun</p>
+  <p>Advance knowledge of the .NET ecosystem</p>
+  <p>Gain practical experience in Web3 technologies</p>
 </div>
 
 <p align="center">My mission is to continuously learn and develop impactful projects.</p>
@@ -53,15 +45,15 @@
   </a>
 </p>
 
-<h3 align="center">GitHub Stats:</h3>
+<h3 align="center">Mine top of used languages:</h3>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs?username=wrknbuycnsmndie&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
 </div>
-
+<h3 align="center">GitHub Stats:</h3>
 <div align="center">
     <img src="https://github-readme-stats.vercel.app/api?username=wrknbuycnsmndie&show_icons=true&locale=en" alt="GitHub Stats" />
 </div>
-
+<h3 align="center">Mine GitHub Streak stats:</h3>
 <div align="center">
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=wrknbuycnsmndie" alt="GitHub Streak Stats" />
 </div>
