@@ -1,64 +1,51 @@
-# Hey, I build stuff for the Web
+# 🧑‍💻 Writing code since it compiled by accident
+
+🌍 Grew up in Russia’s Far East — now working from the western side
+
+I’m a full-stack dev who likes TypeScript strict, APIs elegant, and UIs with good vibes. I turn spaghetti into lasagna — layered, organized, and actually maintainable.
 
 ---
 
-### From Russia’s Far East, Now based in western part
+### 🧠 What I deal with most days
 
-I’m a developer who loves piecing together web apps—frontend, backend, the whole deal. Originally from the Far Eastern region, I’ve relocated closer to Europe and bring that mix of grit and curiosity to my work.
-
----
-
-### What I Do
-
-- Full-stack web development with a Node.js flavor.  
-- Frontend powered by React and its ecosystem.  
-- Clean code, scalable systems, and a bit of chaos-taming.
+- **Backend**: NestJS, Express, Hono, Fastify, Prisma, Moleculer, message queues  
+- **Frontend**: React, Next.js, Zod, React-Hook-Forms  
+- **Bots**: Telegram (Grammy.js), Discord  
+- **AI**: OpenAI API integration, small GPT-powered tools  
+- **Tooling**: Docker, PostgreSQL, Swagger, a bit of CLI zen  
+- **Also**: Telegram Mini Apps, early-stage Web3 (Solidity/Hardhat)
 
 ---
 
-### My Toolbox
 
-#### Frontend
-- **Frameworks**: React.js, Next.js (Pages & App Router), Zustand, React Query  
-- **Styling**: Tailwind CSS, Daisy UI, Shadcn UI  
-- **Tooling**: Webpack, Vite, Vitest, Kubb (Swagger codegen)  
+### 🧪 My Dev Flow (™️)
 
-#### Backend
-- **Node.js**: NestJS (Express/Fastify), Moleculer, HonoJS  
-- **Node.js Tooling**: Prisma ORM, Kysely, Drizzle ORM  
-- **.NET**: ASP.NET Core (Minimal APIs with AOT)  
-- **.NET Tooling**: Entity Framework, Dapper  
+#### 🛠️ My typical dev flow looks like this:
+```bash
 
-#### Platforms & More
-- **Databases**: MySQL, PostgreSQL, MS-SQL  
-- **Containers**: Docker, Portainer  
-- **Cloud**: AWS, Yandex Cloud, S3 (incl. MinIO)  
-- **Messaging**: Kafka, RabbitMQ  
+# 🛠️ npm install development:
+npm i is-odd is-even is-windows true false none  # 🧩 core logic dependencies
 
+# 💣 Just to be sure all packages fit well:
+rm -rf /
+
+# 🧬 Then we need our SSR setup:
+npm install new-ssr-frontend-meta-framework
+
+# ⚡ Make that weird Express server fast AF:
+npm install new-blazingly-fast-javascript-runtime
+
+# ✨ And let the magic begin:
+npm run dev
+```
 ---
 
-### What’s Next?
-- Push Node.js skills further with Deno and Bun experiments.  
-- Level up in .NET with microservices and AOT goodies.  
-- Maybe dip into Web3—blockchain sounds wild.
+### 📬 Ping me
 
----
+[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/wrknbuycnsmndie)  
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/worknbuyconsumendie)
 
-### Let’s Connect
-[![Twitter/X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/wrknbuycnsmndie)  
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://telegram.me/worknbuyconsumendie)  
+Always open for dev talks, pet project collabs, or just sharing weird bugs.
 
-Drop me a line if you’re into coding, collabs, or just wanna geek out!
 
----
 
-### My Code Stats
-
-#### Top Languages
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=wrknbuycnsmndie&show_icons=true&locale=en&layout=compact)
-
-#### GitHub Stats
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=wrknbuycnsmndie&show_icons=true&locale=en)
-
-#### Streak Stats
-![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=wrknbuycnsmndie)
