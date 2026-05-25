@@ -205,7 +205,9 @@
 ![MacOS](https://img.shields.io/badge/-MacOS-000000?style=flat&logo=apple&logoColor=white)
 ![Windows](https://custom-icon-badges.demolab.com/badge/Windows-0078D6?logo=windows11&logoColor=white)
 
----
+<!--START_SECTION:waka-->
+
+<!--END_SECTION:waka-->
 
 ### Activity & Stats
 
