@@ -14,6 +14,8 @@ I like practical engineering: clear APIs, readable code, DDD, CQRS, Clean Archit
 </div>
 
 <!--START_SECTION:waka-->
+![Code Time](http://img.shields.io/badge/Code%20Time-307%20hrs%2015%20mins-blue?style=flat)
+
 ![Profile Views](http://img.shields.io/badge/Profile%20Views-1-blue?style=flat)
 
 ![Lines of code](https://img.shields.io/badge/From%20Hello%20World%20I%27ve%20Written-1.22%20million%20lines%20of%20code-blue?style=flat)
@@ -22,7 +24,7 @@ I like practical engineering: clear APIs, readable code, DDD, CQRS, Clean Archit
 
 > 📦 95.5 kB Used in GitHub's Storage 
  > 
-> 🏆 80 Contributions in the Year 2026
+> 🏆 81 Contributions in the Year 2026
  > 
 > 🚫 Not Opted to Hire
  > 
@@ -30,12 +32,51 @@ I like practical engineering: clear APIs, readable code, DDD, CQRS, Clean Archit
  > 
 > 🔑 84 Private Repositories 
  > 
+**I'm an Early 🐤** 
+
+```text
+🌞 Morning                2632 commits        ███████████████░░░░░░░░░░   59.29 % 
+🌆 Daytime                726 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.36 % 
+🌃 Evening                501 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.29 % 
+🌙 Night                  580 commits         ███░░░░░░░░░░░░░░░░░░░░░░   13.07 % 
+```
+📅 **I'm Most Productive on Tuesday** 
+
+```text
+Monday                   786 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.71 % 
+Tuesday                  847 commits         █████░░░░░░░░░░░░░░░░░░░░   19.08 % 
+Wednesday                748 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.85 % 
+Thursday                 784 commits         ████░░░░░░░░░░░░░░░░░░░░░   17.66 % 
+Friday                   845 commits         █████░░░░░░░░░░░░░░░░░░░░   19.04 % 
+Saturday                 150 commits         █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+Sunday                   279 commits         ██░░░░░░░░░░░░░░░░░░░░░░░   06.29 % 
+```
+
+
+📊 **This Week I Spent My Time On** 
+
+```text
+💬 Programming Languages: 
+TypeScript               6 hrs 30 mins       ███████████░░░░░░░░░░░░░░   44.48 % 
+Markdown                 3 hrs 5 mins        █████░░░░░░░░░░░░░░░░░░░░   21.14 % 
+CSS                      1 hr 20 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.21 % 
+Go                       1 hr 16 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+JSON                     53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.11 % 
+
+🔥 Editors: 
+VS Code                  14 hrs 39 mins      █████████████████████████   100.00 % 
+
+💻 Operating System: 
+WSL                      11 hrs 15 mins      ███████████████████░░░░░░   76.88 % 
+Mac                      3 hrs 23 mins       ██████░░░░░░░░░░░░░░░░░░░   23.12 % 
+```
+
 **Timeline**
 
 ![Lines of Code chart](https://raw.githubusercontent.com/wrknbuycnsmndie/wrknbuycnsmndie/main/assets/bar_graph.png)
 
 
- Last Updated on 29/05/2026 15:31:41 UTC
+ Last Updated on 30/05/2026 13:29:58 UTC
 <!--END_SECTION:waka-->
 
 ---
